@@ -9,4 +9,7 @@ $ pip install requirements.pip
 $ jupyter lab
 ```
 
+## Data
+You can download annonymised data [here](https://drive.google.com/file/d/1V48FS4knrplJt75smzGEOLQiQ1YF07ys/view?usp=sharing).
+
 Go to localhost:8888. Enjoy :).
